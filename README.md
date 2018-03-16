@@ -13,3 +13,6 @@ Shakespearian poem generator using Keras. [Long Short Term Memory](https://en.wi
 
 # Implementation
 A model was trained for ~1000 epochs on a collection of Shakespearian poems called "The Sonnets". The LSTM is deeper, stacked LSTM model (2 layers). Uses Keras for quick model creation.  
+
+# Credit:
+[Sequence Models Course for Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models)
