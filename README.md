@@ -1,3 +1,5 @@
+# NOTE: Implementation hidden due to Coursera Terms of Service.
+
 # Character Level RNN for Dinosaur Name Generation
 Implementation of a multi-layer [Recurrent Neural Network (RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network) for training a character level language model to generate dinosaur names using numpy. The model processes a corpus of dinosaur names, trains the character level language model, and generates text character by character that's similar to the original data (dinosaur names).   
 
